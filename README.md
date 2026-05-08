@@ -1,6 +1,6 @@
 # Show, Attend and Tell — Image Captioning
 
-A PyTorch implementation of the image captioning model from [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) (Xu et al., ICML 2015).
+A PyTorch implementation of the image captioning model from [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) (Xu et al., ICML 2015). This was completed as a project to better learn how to implement models from scratch and reproduce code from research papers. Instructions on how to run are below to verify the work.
 
 The model learns to describe images by generating captions word-by-word, attending to different spatial regions of the image at each step.
 
